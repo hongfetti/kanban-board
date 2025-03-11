@@ -44,6 +44,8 @@ If you would like to contribute to this application, please consult the guidelin
 
 deployed link: https://kanban-board-k91o.onrender.com
 
+![Alt text](./assets/images/screen-shot.PNG)
+
 
 ## Questions
 
