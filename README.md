@@ -16,7 +16,7 @@ A working Kanban Board appliction now with JWT authentication
 
 ## Installation
 
-
+No installation required
 
 ## Usage
 
@@ -42,6 +42,7 @@ If you would like to contribute to this application, please consult the guidelin
 
 ## Tests
 
+deployed link: https://kanban-board-k91o.onrender.com
 
 
 ## Questions
